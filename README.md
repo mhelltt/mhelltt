@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mhelltt
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning python, data analysis
+- 📫 How to reach me mh.elltt@gmail.com
