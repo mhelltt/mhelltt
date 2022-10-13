@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mhelltt
-- 📚 I’m interested in data analysis
+- 📚 I’m interested in data analysis and data science
 - 🌱 I’m currently learning EDA with Python
 - 📧 How to reach me mh.elltt@gmail.com
